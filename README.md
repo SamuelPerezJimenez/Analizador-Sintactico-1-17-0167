@@ -12,7 +12,6 @@ Este analizar reconoce las siguientes palabras:
 8. cadena
 ```
 ## Ejemplo
-```c#
 inicio ;
 cadena var1 # "hola" ;
 entero var5 # 23 ;
