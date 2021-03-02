@@ -2,6 +2,7 @@
 
 ## Documentacion
 Este analizar reconoce las siguientes palabras:
+```
 1. inicio
 2. proceso
 3. fin
